@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Stanley Okraku
+## About Me
+I am a cybersecurity student at NIIT Porthacourt, passionate about offensive and defensive cybersecurity
+I enjoy building practical cybersecurity project tjhat demonstrate real world skills in :
+- Penetration Testing
+- Log Analysis
+- Malware Analysis
+- Digital Forensics
+- OSINT
+- Threat Hunting
+## Projects
+## Project      | Descrption                               | Repository
+OSINT Investigation  connected to OSINT investigation on a target system
+Log Analysis   Analize IIS and windows event log to identify attacks
+## SKILLS
+  -Operating system 
+  -Windows
+  -Linux
+  ### MARKETING
+  -ICP/IP
+  -DNS
+  -HTTP
+  -FTP
+  -SSH
+  -TELNET
+  ### CYBER SECURITY TOOLS
+  - Nmap
+  - Wireshark
+  - blurpsuit
+  - metasploits
+  - Git
+  - Github
+  -CERTIFICATION
+  -ISC2 Certificate in cybersecurity
+  -CompTIA+ (IN PROGRESS)
+## EDUCATION
+NIIT Porthacourt,cybersecurity programme
+### CONTACT
+-Email
+-facebook
+-Youtube
 
-<!--
-**stanleynit/stanleynit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
