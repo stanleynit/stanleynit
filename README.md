@@ -1,4 +1,4 @@
-Hi, I'm Stanley Okraku
+Hi, I'm Stanley Gibson Okraku
 ## About Me
 I am a cybersecurity student at NIIT Porthacourt, passionate about offensive and defensive cybersecurity
 I enjoy building practical cybersecurity project tjhat demonstrate real world skills in :
